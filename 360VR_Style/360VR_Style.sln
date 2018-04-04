@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360VR_Style", "360VR_Style.csproj", "{29FA2D38-0C90-3EAE-7B07-E4616E20BB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360VR_Style.Editor", "360VR_Style.Editor.csproj", "{1044893F-D486-3D02-C309-F97454175F6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FA2D38-0C90-3EAE-7B07-E4616E20BB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FA2D38-0C90-3EAE-7B07-E4616E20BB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FA2D38-0C90-3EAE-7B07-E4616E20BB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FA2D38-0C90-3EAE-7B07-E4616E20BB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1044893F-D486-3D02-C309-F97454175F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1044893F-D486-3D02-C309-F97454175F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1044893F-D486-3D02-C309-F97454175F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1044893F-D486-3D02-C309-F97454175F6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
