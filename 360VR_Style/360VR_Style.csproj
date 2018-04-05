@@ -331,6 +331,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_APP\Scripts\DepartmentPoint.cs" />
     <Compile Include="Assets\_APP\Scripts\GoHerePoint.cs" />
     <Compile Include="Assets\_APP\Scripts\ToggleChild.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />

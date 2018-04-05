@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_APP/_Scenes/DreamOne.unity
+- path: Assets/_APP/_Scenes/DepartmentsOfPlaces.unity
   isLoaded: 1
   isActive: 1
