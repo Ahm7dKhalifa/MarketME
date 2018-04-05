@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_APP/_Scenes/Test.unity
+- path: Assets/_APP/_Scenes/DreamOne.unity
   isLoaded: 1
   isActive: 1
