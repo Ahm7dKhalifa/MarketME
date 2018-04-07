@@ -358,7 +358,7 @@ GameObject:
   - component: {fileID: 368283640}
   - component: {fileID: 368283639}
   m_Layer: 0
-  m_Name: Resturant
+  m_Name: Piza
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -942,7 +942,7 @@ GameObject:
   - component: {fileID: 1828436827}
   - component: {fileID: 1828436826}
   m_Layer: 0
-  m_Name: ClothesShop
+  m_Name: ClothesShops
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scaleAnimation: {fileID: 1828436828}
   animationName: ScaleClothesShop
-  NextSceneName: ListOfClothesShpos
+  NextSceneName: ClothesShopsDepartment
 --- !u!95 &1828436828
 Animator:
   serializedVersion: 3

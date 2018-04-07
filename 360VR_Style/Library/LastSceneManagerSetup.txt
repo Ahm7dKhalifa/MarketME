@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_APP/_Scenes/DepartmentsOfPlaces.unity
+- path: Assets/_APP/_Scenes/WeddingWallDepartment.unity
   isLoaded: 1
   isActive: 1
