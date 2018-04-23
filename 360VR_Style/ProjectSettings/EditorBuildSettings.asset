@@ -6,20 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_APP/_Scenes/DreamOne.unity
-    guid: e3723c474a39eef4a8b1ab9b170d85c4
-  - enabled: 1
-    path: Assets/_APP/_Scenes/DreamTwo.unity
-    guid: 258aba80ed829bd49b94fa5bf1810516
-  - enabled: 1
     path: Assets/_APP/_Scenes/DepartmentsOfPlaces.unity
     guid: 2a760b9c392f81043a6f8bb33e454822
   - enabled: 1
     path: Assets/_APP/_Scenes/ClothesShopsDepartment.unity
     guid: 9ea11bc9bb19d5e4cade3bcbfe9bdf59
   - enabled: 1
-    path: Assets/_APP/_Scenes/F1_ClothesShop.unity
-    guid: e6a3e882df41e2642aaf01dfba3321e2
-  - enabled: 1
     path: Assets/_APP/_Scenes/WeddingWallDepartment.unity
     guid: a7cafd76cbc0f2b468ef8a39228a0635
+  - enabled: 1
+    path: Assets/_APP/_Scenes/DreamOne.unity
+    guid: e3723c474a39eef4a8b1ab9b170d85c4
+  - enabled: 1
+    path: Assets/_APP/_Scenes/DreamTwo.unity
+    guid: 258aba80ed829bd49b94fa5bf1810516
+  - enabled: 1
+    path: Assets/_APP/_Scenes/F1_ClothesShop.unity
+    guid: e6a3e882df41e2642aaf01dfba3321e2
